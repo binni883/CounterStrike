@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterStrike", "CounterStrike.csproj", "{28845AF6-02C3-42BF-A3DE-9886603582BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterStrike_UnitTestProject", "CounterStrike_UnitTestProject\CounterStrike_UnitTestProject.csproj", "{A8F585A8-0CF7-4790-9041-96E2EA3B8CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28845AF6-02C3-42BF-A3DE-9886603582BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28845AF6-02C3-42BF-A3DE-9886603582BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28845AF6-02C3-42BF-A3DE-9886603582BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28845AF6-02C3-42BF-A3DE-9886603582BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F585A8-0CF7-4790-9041-96E2EA3B8CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F585A8-0CF7-4790-9041-96E2EA3B8CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F585A8-0CF7-4790-9041-96E2EA3B8CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F585A8-0CF7-4790-9041-96E2EA3B8CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B0DC15F-9F45-48B4-A1C6-6551F526CF28}
+	EndGlobalSection
+EndGlobal
